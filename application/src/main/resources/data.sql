@@ -1,0 +1,1 @@
+INSERT INTO CTRL_USER(username, password, email, enabled, account_expired, account_locked, credentials_expired) VALUES ('admin', '$2y$10$sklj6vcsPtqf5BGk6DROROL39wuR3e2oN6qHQwGhFog4ymKc.ZZd2', 'admin@etel.com', true, false, false, false);
